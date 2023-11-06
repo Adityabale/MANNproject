@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\merged_files\Mann scraped data(10-2023).csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\scraped-data\AC-CAR-GROUP-LTD_3000-(ME)-79-86(10-2023).csv">
           <value>
             <Attribute>
@@ -31,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\scraped-data\ALFA-ROMEO_4C-13-(10-2023).csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\scraped-data\ALFA-ROMEO_Alfa-6-79-88(10-2023).csv">
           <value>
             <Attribute>
@@ -46,6 +60,20 @@
           </value>
         </entry>
         <entry key="\scraped-data\ALFA-ROMEO_Arna-83-86(10-2023).csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\scraped-data\ARO_ARO-10-76-(10-2023).csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\scraped-data\Mann scraped data(10-2023).csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
